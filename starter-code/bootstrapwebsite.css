@@ -1,0 +1,51 @@
+
+
+nav.container{
+  background-color; white
+}
+
+.container#imageC{
+  background-image:url('img/slider-1.jpg');
+  height:500px;
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+.container#prongsC{
+  background-color:red;
+}
+.container#latestC{
+  background-color:white;
+  padding-top:10px
+}
+
+.container#aboveFooterC{
+  background-color:gray;
+
+}
+footer.container{
+  background-color:blue;
+
+}
+
+
+.col-sm-6 ul{
+  display:inline;
+  
+}
+.col-sm-6 li{
+  float:left;
+  display:block;
+  margin:3px
+}
+.container#latestC .row{
+  height:150px;
+  margin-top:30px 30px 10px 30px
+}
+
+.project-img{
+  width:180px;
+  height:auto
+}
+
+ 
